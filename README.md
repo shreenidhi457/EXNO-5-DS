@@ -1,6 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 # Name:Shreenidhi S
-# Register n0:212225040410
+# Register no:212225040410
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
